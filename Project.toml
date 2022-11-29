@@ -1,6 +1,6 @@
 name = "JuliaNVTXCallbacks_jll"
 uuid = "9c1d0b0a-7046-5b2e-a33f-ea22f176ac7e"
-version = "0.1.0+0"
+version = "0.2.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
