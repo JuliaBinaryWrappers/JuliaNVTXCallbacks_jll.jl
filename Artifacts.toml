@@ -1,35 +1,35 @@
 [[JuliaNVTXCallbacks]]
 arch = "aarch64"
-git-tree-sha1 = "9d836dd8987c1059e835aef3e4332b26a4984599"
+git-tree-sha1 = "65f6b423cbdfde46a2f37e24e21c555323ff6dfa"
 libc = "glibc"
 os = "linux"
 
     [[JuliaNVTXCallbacks.download]]
-    sha256 = "d97ed2b4cf2e19bb17009836eaa799ae0738f37df427ca292c69c118d0dd8a1e"
-    url = "https://github.com/JuliaBinaryWrappers/JuliaNVTXCallbacks_jll.jl/releases/download/JuliaNVTXCallbacks-v0.2.0+0/JuliaNVTXCallbacks.v0.2.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "2cef47f4d482592492d6dab803483ee948178f8f1583b50d4e71e2715b4e3d2c"
+    url = "https://github.com/JuliaBinaryWrappers/JuliaNVTXCallbacks_jll.jl/releases/download/JuliaNVTXCallbacks-v0.2.1+0/JuliaNVTXCallbacks.v0.2.1.aarch64-linux-gnu.tar.gz"
 [[JuliaNVTXCallbacks]]
 arch = "powerpc64le"
-git-tree-sha1 = "219e17f5957ecdf23f86e53cc8e5ce30a2d7a98c"
+git-tree-sha1 = "6c1334ef239d129dc4550f4959cd298d97e4d9ec"
 libc = "glibc"
 os = "linux"
 
     [[JuliaNVTXCallbacks.download]]
-    sha256 = "a9b4b19908f9cfa5d176d553b8def6643435306cbca95af25c2de75c1bc6ed70"
-    url = "https://github.com/JuliaBinaryWrappers/JuliaNVTXCallbacks_jll.jl/releases/download/JuliaNVTXCallbacks-v0.2.0+0/JuliaNVTXCallbacks.v0.2.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "39a6f5facc71525881675f5f0f016db5f1d05a7767f1f0540395e0337f3e3ddb"
+    url = "https://github.com/JuliaBinaryWrappers/JuliaNVTXCallbacks_jll.jl/releases/download/JuliaNVTXCallbacks-v0.2.1+0/JuliaNVTXCallbacks.v0.2.1.powerpc64le-linux-gnu.tar.gz"
 [[JuliaNVTXCallbacks]]
 arch = "x86_64"
-git-tree-sha1 = "65166664c1b49b80d756b600ca90594e1dee8f0f"
+git-tree-sha1 = "ff17ab283d1f7456123711f21d8b1d7e852f8024"
 libc = "glibc"
 os = "linux"
 
     [[JuliaNVTXCallbacks.download]]
-    sha256 = "ea83b7fc4dcf10ab6eab633ce60ad2a7e35df79976733982b42743294c65cbb9"
-    url = "https://github.com/JuliaBinaryWrappers/JuliaNVTXCallbacks_jll.jl/releases/download/JuliaNVTXCallbacks-v0.2.0+0/JuliaNVTXCallbacks.v0.2.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "1b483ff465096e0bca50d66c296a7d5b5fd9007112ff54d4da14193590818953"
+    url = "https://github.com/JuliaBinaryWrappers/JuliaNVTXCallbacks_jll.jl/releases/download/JuliaNVTXCallbacks-v0.2.1+0/JuliaNVTXCallbacks.v0.2.1.x86_64-linux-gnu.tar.gz"
 [[JuliaNVTXCallbacks]]
 arch = "x86_64"
-git-tree-sha1 = "77ae72173c0824ff531b36b6d7761ddc425d47b6"
+git-tree-sha1 = "3ea9f3a9f9de597799a4530209707507f3f0d19a"
 os = "windows"
 
     [[JuliaNVTXCallbacks.download]]
-    sha256 = "294619a48bd21511d66f15fbf713afd95143855ef8bd4688205ebba849944288"
-    url = "https://github.com/JuliaBinaryWrappers/JuliaNVTXCallbacks_jll.jl/releases/download/JuliaNVTXCallbacks-v0.2.0+0/JuliaNVTXCallbacks.v0.2.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "6225d12a2f05aba20539ee6d2665d57a2aad3bdd8aca950b4f358d0807559443"
+    url = "https://github.com/JuliaBinaryWrappers/JuliaNVTXCallbacks_jll.jl/releases/download/JuliaNVTXCallbacks-v0.2.1+0/JuliaNVTXCallbacks.v0.2.1.x86_64-w64-mingw32.tar.gz"
